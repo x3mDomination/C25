@@ -1,2 +1,2 @@
-# C25
-Angry birds game with animations.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
